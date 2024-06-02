@@ -11,7 +11,7 @@
   ㅤ ㅤ   ㅤ <a href="https://github.com/Rahulsinghcreator/Channel-Request-Acceptor/fork"><img alt="Fork and deploy" src="https://img.shields.io/badge/-Fork%20And%20Deploy-black?style=for-the-badge&logo=github&logoColor=white"/></a> 
 
 #
-  ㅤ<a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%Rahulsinghcreator/Channel-Request-Acceptor"><img alt="heroku" src="https://img.shields.io/badge/-Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white"/></a> 
+  ㅤ<a href="https://dashboard.heroku.com/new?template=https://github.com/Krishna3000300/Accepttttt"><img alt="heroku" src="https://img.shields.io/badge/-Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white"/></a> 
 
 </b>
 </details>
