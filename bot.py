@@ -10,7 +10,7 @@ SESSION = environ.get("SESSION", "")
 User = Client(name="AcceptUser", session_string=SESSION)
 
 
-@User.on_message(filters.command(["run", "approve"], [".", "/"]))
+@User.on_message(filters.command(["run", "approve"], [".", "/rk"]))
 async def approve(client, message):
     chat_id = message.chat.id
     await message.delete(True)
